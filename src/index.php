@@ -26,6 +26,7 @@
 					<a href="https://twitter.com/LouceeDev" target="_blank" class="fab fa-twitter"></a>
 					<a href="https://github.com/Loucee" target="_blank" class="fab fa-github"></a>
 					<a href="https://ko-fi.com/louceedev" target="_blank" class="fa fa-coffee"></a>
+					<a href="https://apps.apple.com/tt/developer/id1606493430" target="_blank" class="fab fa-apple"></a>
 				</div>
 			</div>
 		</div>
